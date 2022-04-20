@@ -1,7 +1,7 @@
 ### Hello there 👋
 I'm **Jillian Forsythe (she/her)**, a software developer with a business background. My expertise is in Front End and specifically building out UI to pixel perfection based off designs. I get a kick out of using HTML elements other than `<div>`s for accessibilities' sake and for scanning files. Recently I've been the _Technical Team Lead_ for the consumer experience team at @Legible.
 
-Find more of my work experience on my [![Linkedin Badge](https://img.shields.io/badge/-jillian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jillianforsythe/)
+Find more of my work experience on my [![Linkedin Badge](https://img.shields.io/badge/-profile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jillianforsythe/)
 
 ---
 
